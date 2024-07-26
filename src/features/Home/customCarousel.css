@@ -1,0 +1,38 @@
+.carousel .slide {
+    background: none;
+    padding: 0 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .carousel .carousel-slider {
+    margin: 0 auto;
+    max-width: 1200px;
+  }
+  
+  .carousel .control-arrow,
+  .carousel.carousel-slider .control-arrow {
+    opacity: 0.75;
+    transition: opacity 0.25s;
+  }
+  
+  .carousel .control-arrow:hover,
+  .carousel.carousel-slider .control-arrow:hover {
+    opacity: 1;
+  }
+  
+  .carousel .control-arrow:before,
+  .carousel.carousel-slider .control-arrow:before {
+    font-size: 24px;
+    color: #000;
+  }
+  
+  .carousel .control-dots .dot {
+    background: #d3d3d3;
+  }
+  
+  .carousel .control-dots .dot.selected {
+    background: #000;
+  }
+  

@@ -1,0 +1,127 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "AI-Powered Chatbot",
+      "description": "A chatbot integrated into customer service platforms, providing real-time support and personalized responses.",
+      "skills": [
+        "Python",
+        "Natural Language Processing",
+        "Machine Learning",
+        "Django"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Fitness Tracking App",
+      "description": "An app to monitor and analyze fitness activities, offering workout plans and progress tracking.",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React Native",
+        "Node.js"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "E-Learning Platform",
+      "description": "An online platform offering courses and interactive learning modules for various subjects and skills.",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "MongoDB"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Social Media Dashboard",
+      "description": "A dashboard for managing multiple social media accounts, tracking engagement metrics, and scheduling posts.",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Node.js"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Smart Home Automation",
+      "description": "A system for automating home devices, providing remote control and monitoring via a mobile app.",
+      "skills": [
+        "Python",
+        "IoT",
+        "Machine Learning",
+        "Flask"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Personal Finance Manager",
+      "description": "An app for tracking income, expenses, and budgets, offering financial insights and goal setting.",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Node.js"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "id": 1,
+      "starRating": 5,
+      "heading": "Exceptional Developer",
+      "review": "This developer has outstanding skills and delivers high-quality work on time. Highly recommended for any project requiring creativity and technical expertise.",
+      "profilePic": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+      "id": 2,
+      "starRating": 4,
+      "heading": "Great Team Player",
+      "review": "An excellent team player who communicates effectively and works well under pressure. Consistently delivers impressive results and exceeds expectations.",
+      "profilePic": "https://randomuser.me/api/portraits/women/2.jpg"
+    },
+    {
+      "id": 3,
+      "starRating": 5,
+      "heading": "Highly Skilled Professional",
+      "review": "A highly skilled professional with a keen eye for detail. Their work is always thorough and accurate, making them an asset to any team.",
+      "profilePic": "https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    {
+      "id": 4,
+      "starRating": 4,
+      "heading": "Reliable and Dedicated",
+      "review": "Reliability and dedication are the hallmarks of this developer. They consistently produce excellent work and are always willing to go the extra mile.",
+      "profilePic": "https://randomuser.me/api/portraits/women/4.jpg"
+    },
+    {
+      "id": 5,
+      "starRating": 5,
+      "heading": "Creative Problem Solver",
+      "review": "This developer excels at solving complex problems creatively. Their innovative solutions and proactive approach make them a valuable team member.",
+      "profilePic": "https://randomuser.me/api/portraits/men/5.jpg"
+    },
+    {
+      "id": 6,
+      "starRating": 4,
+      "heading": "Excellent Communicator",
+      "review": "Excellent communication skills and a collaborative spirit. They ensure everyone is on the same page and projects are completed smoothly.",
+      "profilePic": "https://randomuser.me/api/portraits/women/6.jpg"
+    }
+  ],
+  "messages": [
+    {
+      "id": "358a",
+      "fullname": "Rob ",
+      "email": "rob@gmail.com",
+      "subject": "Inquiry",
+      "message": "Hello, I have a question about your services."
+    }
+  ]
+}
